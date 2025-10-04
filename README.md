@@ -1,21 +1,11 @@
 # I'm Cark
 
-I'm a U.S. Army veteran turned Computer Science student, currently building my career in Business Intelligence consulting and data systems. I love streamlining workflows, designing elegant Linux environments, and making information *work* for people.
+I'm a U.S. Army veteran turned Computer Science student, currently building my career in Business Intelligence consulting and data systems. 
 
 ## Projects & Passions
 - **ETL Pipelines**: Building scrapers + transformers for YouTube metadata
 - **Generative AI & Ethics**: Exploring hallucination patterns and human perception in AI
 
-## Past Roles & Experience
-- Army leadership & logistics
-- Sous chef & restaurant ops
-- Dental Insurance Provider Representative
-- Amazon team lead
-
-All of it feeds my focus on *usable systems* and human-centric tech.
-
-## Goals
-- Intern in BI or analytics
 - Help demystify AI & Tech for everyone
 
 ## 📫 Reach me
@@ -23,5 +13,5 @@ All of it feeds my focus on *usable systems* and human-centric tech.
 
 ---
 
-Data is beautiful.
+Data is beautiful!
 
