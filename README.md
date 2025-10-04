@@ -3,8 +3,7 @@
 I'm a U.S. Army veteran turned Computer Science student, currently building my career in Business Intelligence consulting and data systems. I love streamlining workflows, designing elegant Linux environments, and making information *work* for people.
 
 ## Projects & Passions
-- **Neptune Workstation**: Custom Linux setup for personal dev, automation, and note-taking
-- **ETL Pipelines**: Building scrapers + transformers for YouTube metadata (in progress)
+- **ETL Pipelines**: Building scrapers + transformers for YouTube metadata
 - **Generative AI & Ethics**: Exploring hallucination patterns and human perception in AI
 
 ## Past Roles & Experience
